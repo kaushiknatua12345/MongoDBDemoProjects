@@ -1,0 +1,71 @@
+2024-02-22 11:55:32,333 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-22 11:57:34,538 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2024-02-22 11:57:34,704 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2024-02-22 11:57:37,584 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JavaMongoDBCrud:JavaMongoDBCrud:0.0.1-SNAPSHOT @ C:\Users\knatua\Videos\MongoDB_Demos\JavaMongoDBCrud\pom.xml.
+2024-02-22 11:57:37,896 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom
+2024-02-22 11:57:37,995 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom
+2024-02-22 11:57:38,045 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.12.4/surefire-2.12.4.pom
+2024-02-22 11:57:38,115 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.12.4/surefire-2.12.4.pom
+2024-02-22 11:57:38,988 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaMongoDBCrud/src/main/java
+2024-02-22 11:57:38,989 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaMongoDBCrud/src/main/resources
+2024-02-22 11:57:38,990 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaMongoDBCrud/src/test/java
+2024-02-22 11:57:38,990 [Worker-14: Creating project "JavaMongoDBCrud"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaMongoDBCrud/src/test/resources
+2024-02-22 11:57:40,282 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:57:40,288 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:57:40,289 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:57:40,290 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:59:45,807 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JavaMongoDBCrud:JavaMongoDBCrud:0.0.1-SNAPSHOT @ C:\Users\knatua\Videos\MongoDB_Demos\JavaMongoDBCrud\pom.xml.
+2024-02-22 11:59:45,934 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:59:45,937 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:59:45,938 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:59:45,940 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:59:47,049 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.4.2/mongodb-driver-sync-4.4.2-sources.jar
+2024-02-22 11:59:47,108 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:59:47,110 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:59:47,111 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:59:47,112 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:59:47,171 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.4.2/mongodb-driver-sync-4.4.2-sources.jar
+2024-02-22 11:59:47,174 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-sync:4.4.2
+2024-02-22 11:59:47,373 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/4.4.2/bson-4.4.2-sources.jar
+2024-02-22 11:59:47,608 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/4.4.2/bson-4.4.2-sources.jar
+2024-02-22 11:59:47,611 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:bson:4.4.2
+2024-02-22 11:59:47,809 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.4.2/mongodb-driver-core-4.4.2-sources.jar
+2024-02-22 11:59:48,133 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.4.2/mongodb-driver-core-4.4.2-sources.jar
+2024-02-22 11:59:48,136 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-core:4.4.2
+2024-02-22 11:59:48,328 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:59:48,330 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 11:59:48,330 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 11:59:48,331 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:07:42,133 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:07:42,134 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:07:42,135 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:07:42,136 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:07:43,160 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:07:43,161 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:07:43,162 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:07:43,162 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:46:31,633 [Worker-38: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:46:31,635 [Worker-38: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:46:31,636 [Worker-38: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:46:31,637 [Worker-38: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:51:38,414 [Worker-43: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:51:38,415 [Worker-43: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:51:38,417 [Worker-43: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:51:38,418 [Worker-43: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:54:03,706 [Worker-45: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:54:03,708 [Worker-45: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:54:03,709 [Worker-45: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:54:03,710 [Worker-45: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:56:18,993 [Worker-47: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:56:18,994 [Worker-47: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:56:18,995 [Worker-47: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:56:18,995 [Worker-47: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:57:00,362 [Worker-45: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:57:00,363 [Worker-45: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 12:57:00,364 [Worker-45: Launching JavaCrudOperation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 12:57:00,364 [Worker-45: Launching JavaCrudOperation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:00:22,770 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 13:00:22,771 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-22 13:00:22,772 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-22 13:00:22,773 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-27 17:28:09,537 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

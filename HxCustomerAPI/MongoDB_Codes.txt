@@ -1,0 +1,15 @@
+1. Create Database
+use HxCustomers
+
+2. Create Collection
+db.createCollection('Customers')
+
+3. Insert documents to Collection
+ db.Customers.insertMany([{ "Name": "HDFC Bank", "Billing": 90000, "Category": "Banking Service"}, 
+ { "Name": "Apallo Hospitals", "Billing": 789452.89, "Category": "Healthcare Service"}])
+
+ 4. View documents in the Collection
+ db.Customers.find().pretty()
+
+ Note:
+ To use MongoDB with .NET, download MongoDB.Driver from nuget package manager in Visual Studio
